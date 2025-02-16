@@ -1,0 +1,4 @@
+com\mycompany\config\DatabaseConnection.class
+com\mycompany\servlet\ContactServlet.class
+com\mycompany\model\Contact.class
+com\mycompany\dao\ContactDAO.class
