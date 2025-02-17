@@ -38,7 +38,7 @@
 
     <h2>Add Contact</h2>
     
-    <form action="/contact" method="post">
+    <form action="/contactapp/contact" method="post">
         <label>Full Name:</label>
         <input type="text" name="fullName" required>
         

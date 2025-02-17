@@ -1,3 +1,4 @@
+com\mycompany\servlet\ContactsApi.class
 com\mycompany\config\DatabaseConnection.class
 com\mycompany\servlet\ContactServlet.class
 com\mycompany\model\Contact.class
